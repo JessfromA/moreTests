@@ -1,3 +1,5 @@
 hey I'm going trough the exercises again, lets see if I have a good memory !
 
 here's a few characters, that should be enough to track modifications right?!
+
+what if we used our token to skip entering passwords, will this new test work ?
